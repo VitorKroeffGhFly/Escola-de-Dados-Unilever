@@ -1,6 +1,6 @@
 # Documentação das bases de dados
 
-Para este estudo, foram utilizadas duas bases de dados: uma para dados de vendas ("dados_vendas.csv") e outra com informações dos clientes ("dados_clientes.csv"). Ambas possuem um ID único para cada cliente, permitindo que ambas tenham uma chave comum de relacionamento. As bases foram geradas a partir de modificações de bases de dados públicos encontradas no site Kaggle. Abaixo, temos os links para as bases originais.
+Para este estudo, foram utilizadas duas bases de dados: uma para dados de vendas ("**dados_vendas.csv**") e outra com informações dos clientes ("**dados_clientes.csv**"). Ambas possuem um ID único para cada cliente, permitindo que ambas tenham uma chave comum de relacionamento. As bases foram geradas a partir de modificações de bases de dados públicos encontradas no site Kaggle. Abaixo, temos os links para as bases originais.
 
 [Dados Transacionais](https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing)
 
